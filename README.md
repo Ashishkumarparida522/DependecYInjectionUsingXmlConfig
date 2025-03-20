@@ -1,2 +1,2 @@
-# DependecYInjectionUsingXmlConfig
+# DependencyInjectionUsingXmlConfig
 DI using xml
